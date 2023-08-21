@@ -46,9 +46,9 @@ Route::get('parrainage', function() {
     return view('/parrainage');
 });
 
-// Route::get('accueil', function() {
-//     return view('/accueil');
-// });
+Route::get('accueil', function() {
+    return view('/accueil');
+});
 
 
 Route::middleware(['auth'])->group(function() {

@@ -26,7 +26,7 @@ class StorePostRequest extends FormRequest
             $imageRules = 'image|required';
         } elseif (request()->routeIs('posts.update')) {
             $imageRules = 'image|sometimes';
-        }""
+        }
         
 
 

@@ -26,7 +26,7 @@
     <body>
 
         <div class="hero2">
-            <h1 class="titre_services">The Secret Beauty</h1>
+            <h1 class="titre_services">White Beauty</h1>
             <h2 class="sous_titre_service">Nos services</h2>
         </div>
 
@@ -35,7 +35,7 @@
          <main class="services-page">
     <h1 class="titre_service">Nos Services</h1>
 
-    <p class="services_description">Découvrez nos offres de services et laissez-nous vous aider à révéler votre beauté intérieure et extérieure chez Seret Beauty. Chaque service est conçu pour vous offrir une expérience relaxante, rajeunissante et pleine de bienfaits pour votre corps et votre esprit.</p>
+    <p class="services_description">Découvrez nos offres de services et laissez-nous vous aider à révéler votre beauté intérieure et extérieure chez White Beauty. Chaque service est conçu pour vous offrir une expérience relaxante, rajeunissante et pleine de bienfaits pour votre corps et votre esprit.</p>
     
     <section class="service">
             <div class="service-content">

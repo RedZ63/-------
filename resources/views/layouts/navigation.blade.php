@@ -33,9 +33,9 @@
 
                         <a href="/qsn" style="margin-left : -1rem;">
                             {{ __('Qui sommes nous') }}
-                        </a>
+                            </a>
 
-                    </x-nav-link>
+                        </x-nav-link>
 
                     <x-nav-link>
                         <a href="/blog" style="margin-left : -1rem;">
